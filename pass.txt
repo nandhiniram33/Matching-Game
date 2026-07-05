@@ -1,0 +1,4 @@
+mongodb+srv://animaladmin:admin@123@animalcluster.wou45g9.mongodb.net/?appName=AnimalCluster
+
+
+mongodb+srv://animaladmin:Animal123@animalcluster.wou45g9.mongodb.net/?appName=AnimalCluster
